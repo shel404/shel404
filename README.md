@@ -15,9 +15,6 @@ I love working with **JavaScript** and its modern frameworks, diving into **micr
 - [**Vector Classes**](http://www.vectorclasses.net) - Ongoing project for a teaching center, featuring a Next.js website and a React.js-powered admin panel with a NestJS backend.
 - [**Foodi**](http://www.foodibd.com) - A food delivery platform where I contributed to both the frontend admin panel and backend services using ReactJS and ExpressJS.
 - [**Kavazo**](http://www.kavazo.vercel.app) - A special cake and pastry shop website, built with NextJS (yum! 🍰).
-
-## 🎓 Education
-- Currently pursuing a **BBA in Management** at the University of Chittagong 📚
   
 ## 🌍 Languages
 - **Bengali:** Native speaker
