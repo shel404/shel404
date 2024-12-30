@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm a **Full Stack Engineer** from Chattogram, Ban
 ## 🔧 Technologies & Tools
 I'm well-versed in:
 - **Languages:** JavaScript, TypeScript, Python, PHP, HTML, CSS
-- **Frontend:** ReactJS, NextJS, React Native, Bootstrap, ChakraUI, TailwindCSS, Prime React
+- **Frontend:** ReactJS, NextJS, React Native, Codeigniter, Laravel, Bootstrap, ChakraUI, TailwindCSS, Prime React
 - **Backend:** NodeJS, ExpressJS, NestJS, PHP, MongoDB, PostgreSQL, MySQL, Redis
-- **Tools:** Git Bash, GitHub Actions, RabbitMQ, Docker, Kubernetes, OpenTelemetry, AWS
+- **Tools:** Git Bash, GitHub Actions, RabbitMQ, Redis, Docker, Kubernetes, OpenTelemetry, AWS
 
 I love working with **JavaScript** and its modern frameworks, diving into **microservice architectures**, and I have a growing interest in cloud computing and automation.
 
