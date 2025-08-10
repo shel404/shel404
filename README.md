@@ -20,5 +20,3 @@ I love working with **JavaScript** and its modern frameworks, diving into **micr
 - **Bengali:** Native speaker
 - **English:** Professional
 
-## 🚀 What I'm Up To Now
-I'm currently working at **Vector Classes** as a Full Stack Engineer, expanding my skills with **NestJS** and **NextJS**.
